@@ -1,6 +1,6 @@
 # Latitude vs. X: Web Visualization
 
-Homework for Boot Camp Week 11: Web; Submitted by Corey Lawson-Enos
+Homework for Boot Camp Week 11: HTML and CSS; Submitted by Corey Lawson-Enos
 
 ## Summary
 * HTML webpages that compare geographical latitude's effect on four weather categories--Temperature, Humidity, Cloudiness, and Wind Speed. 
